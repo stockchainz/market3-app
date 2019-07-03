@@ -14,13 +14,13 @@ export default class Config {
       name: 'Un Market'
     };
     this.restServer = {
-      url: 'http://api-market1-stockchainz.serveo.net/api',
-      wsURL: 'ws://api-market1-stockchainz.serveo.net',
-      authURL: 'http://api-market1-stockchainz.serveo.net/auth'
+      url: 'https://api-market1-stockchainz.serveo.net/api',
+      wsURL: 'wss://api-market1-stockchainz.serveo.net',
+      authURL: 'https://api-market1-stockchainz.serveo.net/auth'
     };
 
     this.accountServer = {
-      url: 'http://account-market1-stockchainz.serveo.net/api'
+      url: 'https://account-market1-stockchainz.serveo.net/api'
     };
   }
 }
