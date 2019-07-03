@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/market3-app/static/css/main.6fe004e0.chunk.css",
+    "main.js": "/market3-app/static/js/main.d06b0450.chunk.js",
+    "main.js.map": "/market3-app/static/js/main.d06b0450.chunk.js.map",
+    "runtime~main.js": "/market3-app/static/js/runtime~main.d92eed2c.js",
+    "runtime~main.js.map": "/market3-app/static/js/runtime~main.d92eed2c.js.map",
+    "static/css/2.dc646829.chunk.css": "/market3-app/static/css/2.dc646829.chunk.css",
+    "static/js/2.95a6b332.chunk.js": "/market3-app/static/js/2.95a6b332.chunk.js",
+    "static/js/2.95a6b332.chunk.js.map": "/market3-app/static/js/2.95a6b332.chunk.js.map",
+    "index.html": "/market3-app/index.html",
+    "precache-manifest.a9385f8af56e9bb62306c33112a5e46b.js": "/market3-app/precache-manifest.a9385f8af56e9bb62306c33112a5e46b.js",
+    "service-worker.js": "/market3-app/service-worker.js",
+    "static/css/2.dc646829.chunk.css.map": "/market3-app/static/css/2.dc646829.chunk.css.map",
+    "static/css/main.6fe004e0.chunk.css.map": "/market3-app/static/css/main.6fe004e0.chunk.css.map"
+  }
+}
